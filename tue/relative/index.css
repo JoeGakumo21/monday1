@@ -1,0 +1,10 @@
+*{
+    background-image: url("images/fifa.jpg");
+    background-position: center center;
+    
+}
+#relative{
+border: 3px;
+position: relative;
+left: 20px;
+}

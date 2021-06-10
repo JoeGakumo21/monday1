@@ -1,0 +1,10 @@
+*{
+    font-family: sans-serif;
+}
+div p{
+    font-size: 24px;
+    background-color: yellow;
+}
+div >p >span{
+    color: red;
+}

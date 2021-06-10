@@ -1,0 +1,6 @@
+#parent p{
+    color: green;
+}
+div> p> span{
+    color: red;
+}

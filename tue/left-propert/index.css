@@ -1,0 +1,21 @@
+#relative{
+    position: relative;
+    border: 3px solid red;
+    left: 20px;
+    top: 20px;
+
+}
+div p:first-child{
+    background-color: lime;
+    padding: 10px;
+  }
+ 
+  div p:last-child{
+    background-color: red;
+    padding: 10px;
+  }
+#rel{
+    right: -30px;
+    position: relative;
+    bottom: 20px;
+}
